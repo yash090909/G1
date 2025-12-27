@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gopi Distributors PWA",
+  "description": "Offline-first Pharmaceutical Billing System. Android-optimized PWA with Hybrid Search and Excel Ingestion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

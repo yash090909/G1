@@ -1,0 +1,32 @@
+{
+  "name": "Gopi Distributors",
+  "short_name": "GopiDist",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "description": "Next-Gen Pharma Billing System",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3063/3063822.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3063/3063822.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "New Invoice",
+      "short_name": "Bill",
+      "description": "Create a new invoice",
+      "url": "/#/billing",
+      "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/10099/10099736.png", "sizes": "96x96" }]
+    }
+  ]
+}
